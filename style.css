@@ -1,0 +1,24 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+input{
+  font-size: 25px;
+  width: 25%;
+  border: 1px solid black;
+  outline: none;
+  margin-bottom: 10px;
+}
+
+form label{
+  font-size: 25px;
+}
+
+#display{
+  text-transform: uppercase;
+}
+
+#display2{
+  text-transform: capitalize;
+}
